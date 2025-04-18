@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: demo-node.test.com
+    - host: k8s.hykura.id.vn
       http:
         paths:
           - pathType: Prefix
