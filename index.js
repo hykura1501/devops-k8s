@@ -20,7 +20,7 @@ app.get('/contact', (req, res) => {
 })
 
 app.get('/hello', (req, res) => {
-    res.send("Quan Nguyen");
+    res.send("Quan Nguyen 1");
 })
 
 
